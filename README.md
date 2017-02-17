@@ -1,2 +1,5 @@
 # This is the CourseBuddy project.
-# This project is being developed by Shankar Pentyala , Vamsi krishna challa , Girish kumar reddy nagella.
+# Team Members:
+1.Shankar Pentyala 
+2. Vamsi krishna challa 
+3.Girish kumar reddy nagella.
